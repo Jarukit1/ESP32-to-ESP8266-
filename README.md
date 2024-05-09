@@ -1,2 +1,2 @@
-# ESP32-to-ESP8266-
-i want to  change ESP32 to ESP8266  
+# ESP8266-to-ESP32
+i want to  change ESP8266 to ESP32
